@@ -1,15 +1,15 @@
-@import "_herramientas2035/_herramientasMain.css";
+@import "herramientas2035/herramientasMain.css";
 @import url('https://fonts.googleapis.com/css2?family=Numans&display=swap');
 
 
 .listaMetodos{
-  list-style-image: url('_imagenes2035/lapizNegro.png');
+  list-style-image: url('imagenes2035/lapizNegro.png');
 }
 
 .listaCostos{
-  list-style-image: url('_imagenes2035/pagosNegro.png');
+  list-style-image: url('imagenes2035/pagosNegro.png');
 }
 
 .listaRenta{
-  list-style-image: url('_imagenes2035/pesosNegro.png');
+  list-style-image: url('imagenes2035/pesosNegro.png');
 }

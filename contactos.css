@@ -1,4 +1,4 @@
-@import "_contactos2035/_contactosMain.css";
+@import "contactos2035/contactosMain.css";
 @import url('https://fonts.googleapis.com/css2?family=Numans&display=swap');
 
 body::before {
@@ -15,7 +15,7 @@ body::before {
       rgba(169, 169, 169, 0.2),
       rgba(105, 105, 105, 0.2)
     ),
- url("_imagenes2035/Hacking2.png");
+ url("imagenes2035/Hacking2.png");
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
